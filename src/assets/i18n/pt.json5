@@ -265,8 +265,7 @@
   "admin.access-control.epeople.search.head": "Search",
   
   // "admin.access-control.epeople.button.see-all": "Browse All",
-  // TODO New key - Add a translation
-  "admin.access-control.epeople.button.see-all": "Browse All",
+  "admin.access-control.epeople.button.see-all": "Pesquisar Todos",
   
   // "admin.access-control.epeople.search.scope.metadata": "Metadata",
   // TODO New key - Add a translation
@@ -289,8 +288,7 @@
   "admin.access-control.epeople.table.id": "ID",
   
   // "admin.access-control.epeople.table.name": "Name",
-  // TODO New key - Add a translation
-  "admin.access-control.epeople.table.name": "Name",
+  "admin.access-control.epeople.table.name": "Nome",
   
   // "admin.access-control.epeople.table.email": "E-mail (exact)",
   // TODO New key - Add a translation
@@ -377,8 +375,7 @@
   "admin.access-control.epeople.form.table.id": "ID",
   
   // "admin.access-control.epeople.form.table.name": "Name",
-  // TODO New key - Add a translation
-  "admin.access-control.epeople.form.table.name": "Name",
+  "admin.access-control.epeople.form.table.name": "Nome",
   
   // "admin.access-control.epeople.form.memberOfNoGroups": "This EPerson is not a member of any groups",
   // TODO New key - Add a translation
@@ -403,16 +400,13 @@
   "admin.access-control.groups.title": "DSpace Angular :: Groups",
   
   // "admin.access-control.groups.head": "Groups",
-  // TODO New key - Add a translation
-  "admin.access-control.groups.head": "Groups",
+  "admin.access-control.groups.head": "Grupos",
   
   // "admin.access-control.groups.button.add": "Add group",
-  // TODO New key - Add a translation
-  "admin.access-control.groups.button.add": "Add group",
+  "admin.access-control.groups.button.add": "Adicionar grupo",
   
   // "admin.access-control.groups.search.head": "Search groups",
-  // TODO New key - Add a translation
-  "admin.access-control.groups.search.head": "Search groups",
+  "admin.access-control.groups.search.head": "Pesquisar grupos",
   
   // "admin.access-control.groups.button.see-all": "Browse all",
   // TODO New key - Add a translation
@@ -427,8 +421,7 @@
   "admin.access-control.groups.table.id": "ID",
   
   // "admin.access-control.groups.table.name": "Name",
-  // TODO New key - Add a translation
-  "admin.access-control.groups.table.name": "Name",
+  "admin.access-control.groups.table.name": "Nome",
   
   // "admin.access-control.groups.table.members": "Members",
   // TODO New key - Add a translation
@@ -439,8 +432,7 @@
   "admin.access-control.groups.table.comcol": "Community / Collection",
   
   // "admin.access-control.groups.table.edit": "Edit",
-  // TODO New key - Add a translation
-  "admin.access-control.groups.table.edit": "Edit",
+  "admin.access-control.groups.table.edit": "Editar",
   
   // "admin.access-control.groups.table.edit.buttons.edit": "Edit \"{{name}}\"",
   // TODO New key - Add a translation
@@ -464,20 +456,16 @@
   
   
   // "admin.access-control.groups.form.head.create": "Create group",
-  // TODO New key - Add a translation
-  "admin.access-control.groups.form.head.create": "Create group",
+  "admin.access-control.groups.form.head.create": "Criar grupo",
   
   // "admin.access-control.groups.form.head.edit": "Edit group",
-  // TODO New key - Add a translation
-  "admin.access-control.groups.form.head.edit": "Edit group",
+  "admin.access-control.groups.form.head.edit": "Editar grupo",
   
   // "admin.access-control.groups.form.groupName": "Group name",
-  // TODO New key - Add a translation
-  "admin.access-control.groups.form.groupName": "Group name",
+  "admin.access-control.groups.form.groupName": "Nome do grupo",
   
   // "admin.access-control.groups.form.groupDescription": "Description",
-  // TODO New key - Add a translation
-  "admin.access-control.groups.form.groupDescription": "Description",
+  "admin.access-control.groups.form.groupDescription": "Descrição",
   
   // "admin.access-control.groups.form.notification.created.success": "Successfully created Group \"{{name}}\"",
   // TODO New key - Add a translation
@@ -524,20 +512,17 @@
   "admin.access-control.groups.form.members-list.table.id": "ID",
   
   // "admin.access-control.groups.form.members-list.table.name": "Name",
-  // TODO New key - Add a translation
-  "admin.access-control.groups.form.members-list.table.name": "Name",
+  "admin.access-control.groups.form.members-list.table.name": "Nome",
   
   // "admin.access-control.groups.form.members-list.table.edit": "Remove / Add",
   // TODO New key - Add a translation
   "admin.access-control.groups.form.members-list.table.edit": "Remove / Add",
   
   // "admin.access-control.groups.form.members-list.table.edit.buttons.remove": "Remove member with name \"{{name}}\"",
-  // TODO New key - Add a translation
-  "admin.access-control.groups.form.members-list.table.edit.buttons.remove": "Remove member with name \"{{name}}\"",
+  "admin.access-control.groups.form.members-list.table.edit.buttons.remove": "Remover o membro com nome \"{{name}}\"",
   
   // "admin.access-control.groups.form.members-list.notification.success.addMember": "Successfully added member: \"{{name}}\"",
-  // TODO New key - Add a translation
-  "admin.access-control.groups.form.members-list.notification.success.addMember": "Successfully added member: \"{{name}}\"",
+  "admin.access-control.groups.form.members-list.notification.success.addMember": "Membro adicionado com sucesso: \"{{name}}\"",
   
   // "admin.access-control.groups.form.members-list.notification.failure.addMember": "Failed to add member: \"{{name}}\"",
   // TODO New key - Add a translation
@@ -568,8 +553,7 @@
   "admin.access-control.groups.form.members-list.no-items": "No EPeople found in that search",
   
   // "admin.access-control.groups.form.subgroups-list.head": "Groups",
-  // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.head": "Groups",
+  "admin.access-control.groups.form.subgroups-list.head": "Grupos",
   
   // "admin.access-control.groups.form.subgroups-list.search.head": "Add Subgroup",
   // TODO New key - Add a translation
@@ -592,12 +576,10 @@
   "admin.access-control.groups.form.subgroups-list.table.id": "ID",
   
   // "admin.access-control.groups.form.subgroups-list.table.name": "Name",
-  // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.table.name": "Name",
+  "admin.access-control.groups.form.subgroups-list.table.name": "Nome",
   
   // "admin.access-control.groups.form.subgroups-list.table.edit": "Remove / Add",
-  // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.table.edit": "Remove / Add",
+  "admin.access-control.groups.form.subgroups-list.table.edit": "Remover / Adicionar",
   
   // "admin.access-control.groups.form.subgroups-list.table.edit.buttons.remove": "Remove subgroup with name \"{{name}}\"",
   // TODO New key - Add a translation
@@ -608,8 +590,7 @@
   "admin.access-control.groups.form.subgroups-list.table.edit.buttons.add": "Add subgroup with name \"{{name}}\"",
   
   // "admin.access-control.groups.form.subgroups-list.table.edit.currentGroup": "Current group",
-  // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.table.edit.currentGroup": "Current group",
+  "admin.access-control.groups.form.subgroups-list.table.edit.currentGroup": "Grupo atual",
   
   // "admin.access-control.groups.form.subgroups-list.notification.success.addSubgroup": "Successfully added subgroup: \"{{name}}\"",
   // TODO New key - Add a translation
@@ -644,8 +625,7 @@
   "admin.access-control.groups.form.subgroups-list.no-subgroups-yet": "No subgroups in group yet.",
   
   // "admin.access-control.groups.form.return": "Return to groups",
-  // TODO New key - Add a translation
-  "admin.access-control.groups.form.return": "Return to groups",
+  "admin.access-control.groups.form.return": "Retornar aos grupos",
   
   
   
@@ -654,36 +634,29 @@
   "admin.search.breadcrumbs": "Administrative Search",
   
   // "admin.search.collection.edit": "Edit",
-  // TODO New key - Add a translation
-  "admin.search.collection.edit": "Edit",
+  "admin.search.collection.edit": "Editar",
   
   // "admin.search.community.edit": "Edit",
-  // TODO New key - Add a translation
-  "admin.search.community.edit": "Edit",
+  "admin.search.community.edit": "Editar",
   
   // "admin.search.item.delete": "Delete",
   // TODO New key - Add a translation
   "admin.search.item.delete": "Delete",
   
   // "admin.search.item.edit": "Edit",
-  // TODO New key - Add a translation
-  "admin.search.item.edit": "Edit",
+  "admin.search.item.edit": "Editar",
   
   // "admin.search.item.make-private": "Make Private",
-  // TODO New key - Add a translation
-  "admin.search.item.make-private": "Make Private",
+  "admin.search.item.make-private": "Tornar Privado",
   
   // "admin.search.item.make-public": "Make Public",
-  // TODO New key - Add a translation
-  "admin.search.item.make-public": "Make Public",
+  "admin.search.item.make-public": "Tornar Público",
   
   // "admin.search.item.move": "Move",
-  // TODO New key - Add a translation
-  "admin.search.item.move": "Move",
+  "admin.search.item.move": "Mover",
   
   // "admin.search.item.private": "Private",
-  // TODO New key - Add a translation
-  "admin.search.item.private": "Private",
+  "admin.search.item.private": "Privado",
   
   // "admin.search.item.reinstate": "Reinstate",
   // TODO New key - Add a translation
@@ -698,8 +671,7 @@
   "admin.search.item.withdrawn": "Withdrawn",
   
   // "admin.search.title": "Administrative Search",
-  // TODO New key - Add a translation
-  "admin.search.title": "Administrative Search",
+  "admin.search.title": "Pesquisa Administrativa",
   
   
   
@@ -720,8 +692,7 @@
   "bitstream.edit.form.description.hint": "Optionally, provide a brief description of the file, for example \"<i>Main article</i>\" or \"<i>Experiment data readings</i>\".",
   
   // "bitstream.edit.form.description.label": "Description",
-  // TODO New key - Add a translation
-  "bitstream.edit.form.description.label": "Description",
+  "bitstream.edit.form.description.label": "Descrição",
   
   // "bitstream.edit.form.embargo.hint": "The first day from which access is allowed. <b>This date cannot be modified on this form.</b> To set an embargo date for a bitstream, go to the <i>Item Status</i> tab, click <i>Authorizations...</i>, create or edit the bitstream's <i>READ</i> policy, and set the <i>Start Date</i> as desired.",
   // TODO New key - Add a translation
@@ -736,12 +707,10 @@
   "bitstream.edit.form.fileName.hint": "Change the filename for the bitstream. Note that this will change the display bitstream URL, but old links will still resolve as long as the sequence ID does not change.",
   
   // "bitstream.edit.form.fileName.label": "Filename",
-  // TODO New key - Add a translation
-  "bitstream.edit.form.fileName.label": "Filename",
+  "bitstream.edit.form.fileName.label": "Nome do arquivo",
   
   // "bitstream.edit.form.newFormat.label": "Describe new format",
-  // TODO New key - Add a translation
-  "bitstream.edit.form.newFormat.label": "Describe new format",
+  "bitstream.edit.form.newFormat.label": "Descreva o novo formato",
   
   // "bitstream.edit.form.newFormat.hint": "The application you used to create the file, and the version number (for example, \"<i>ACMESoft SuperApp version 1.5</i>\").",
   // TODO New key - Add a translation
@@ -756,8 +725,7 @@
   "bitstream.edit.form.selectedFormat.hint": "If the format is not in the above list, <b>select \"format not in list\" above</b> and describe it under \"Describe new format\".",
   
   // "bitstream.edit.form.selectedFormat.label": "Selected Format",
-  // TODO New key - Add a translation
-  "bitstream.edit.form.selectedFormat.label": "Selected Format",
+  "bitstream.edit.form.selectedFormat.label": "Formato Selecionado",
   
   // "bitstream.edit.form.selectedFormat.unknown": "Format not in list",
   // TODO New key - Add a translation
@@ -812,20 +780,16 @@
   "browse.metadata.title": "Título",
   
   // "browse.metadata.author.breadcrumbs": "Browse by Author",
-  // TODO New key - Add a translation
-  "browse.metadata.author.breadcrumbs": "Browse by Author",
+  "browse.metadata.author.breadcrumbs": "Pesquisar por Autor",
   
   // "browse.metadata.dateissued.breadcrumbs": "Browse by Date",
-  // TODO New key - Add a translation
-  "browse.metadata.dateissued.breadcrumbs": "Browse by Date",
+  "browse.metadata.dateissued.breadcrumbs": "Pesquisar por Data",
   
   // "browse.metadata.subject.breadcrumbs": "Browse by Subject",
-  // TODO New key - Add a translation
-  "browse.metadata.subject.breadcrumbs": "Browse by Subject",
+  "browse.metadata.subject.breadcrumbs": "Pesquisar por Assunto",
   
   // "browse.metadata.title.breadcrumbs": "Browse by Title",
-  // TODO New key - Add a translation
-  "browse.metadata.title.breadcrumbs": "Browse by Title",
+  "browse.metadata.title.breadcrumbs": "Pesquisar por Título",
   
   // "browse.startsWith.choose_start": "(Choose start)",
   "browse.startsWith.choose_start": "(Escolha o início)",
@@ -1001,8 +965,7 @@
   "collection.edit.logo.notifications.add.success": "Upload Collection logo successful.",
   
   // "collection.edit.logo.notifications.delete.success.title": "Logo deleted",
-  // TODO New key - Add a translation
-  "collection.edit.logo.notifications.delete.success.title": "Logo deleted",
+  "collection.edit.logo.notifications.delete.success.title": "Logo removido",
   
   // "collection.edit.logo.notifications.delete.success.content": "Successfully deleted the collection's logo",
   // TODO New key - Add a translation
@@ -1037,8 +1000,7 @@
   "collection.edit.tabs.curate.title": "Collection Edit - Curate",
   
   // "collection.edit.tabs.metadata.head": "Edit Metadata",
-  // TODO New key - Add a translation
-  "collection.edit.tabs.metadata.head": "Edit Metadata",
+  "collection.edit.tabs.metadata.head": "Editar Metadados",
   
   // "collection.edit.tabs.metadata.title": "Collection Edit - Metadata",
   // TODO New key - Add a translation
@@ -1101,8 +1063,7 @@
   "collection.edit.tabs.source.notifications.discarded.content": "Your changes were discarded. To reinstate your changes click the 'Undo' button",
   
   // "collection.edit.tabs.source.notifications.discarded.title": "Changed discarded",
-  // TODO New key - Add a translation
-  "collection.edit.tabs.source.notifications.discarded.title": "Changed discarded",
+  "collection.edit.tabs.source.notifications.discarded.title": "Alterações descartadas",
   
   // "collection.edit.tabs.source.notifications.invalid.content": "Your changes were not saved. Please make sure all fields are valid before you save.",
   // TODO New key - Add a translation
@@ -1185,22 +1146,19 @@
   "collection.source.update.notifications.error.content": "The provided settings have been tested and didn't work.",
   
   // "collection.source.update.notifications.error.title": "Server Error",
-  // TODO New key - Add a translation
-  "collection.source.update.notifications.error.title": "Server Error",
+  "collection.source.update.notifications.error.title": "Erro no Servidor",
   
   
   
   // "communityList.tabTitle": "DSpace - Community List",
   // TODO New key - Add a translation
-  "communityList.tabTitle": "DSpace - Community List",
+  "communityList.tabTitle": "DSpace - Lista de Comunidades",
   
   // "communityList.title": "List of Communities",
-  // TODO New key - Add a translation
-  "communityList.title": "List of Communities",
+  "communityList.title": "Lista de Comunidades",
   
   // "communityList.showMore": "Show More",
-  // TODO New key - Add a translation
-  "communityList.showMore": "Show More",
+  "communityList.showMore": "Mostrar Mais",
   
   
   
@@ -1239,13 +1197,10 @@
   "community.edit.head": "Editar Comunidade",
   
   // "community.edit.breadcrumbs": "Edit Community",
-  // TODO New key - Add a translation
-  "community.edit.breadcrumbs": "Edit Community",
-  
+  "community.edit.breadcrumbs": "Editar Comunidade",
   
   // "community.edit.logo.label": "Community logo",
-  // TODO New key - Add a translation
-  "community.edit.logo.label": "Community logo",
+  "community.edit.logo.label": "Logo da Comunidade",
   
   // "community.edit.logo.notifications.add.error": "Uploading Community logo failed. Please verify the content before retrying.",
   // TODO New key - Add a translation
@@ -3333,41 +3288,31 @@
   "search.filters.entityType.JournalVolume": "Journal Volume",
   
   // "search.filters.entityType.OrgUnit": "Organizational Unit",
-  // TODO New key - Add a translation
-  "search.filters.entityType.OrgUnit": "Organizational Unit",
+  "search.filters.entityType.OrgUnit": "Unidade Organizacional",
   
   // "search.filters.has_content_in_original_bundle.true": "Yes",
-  // TODO New key - Add a translation
-  "search.filters.has_content_in_original_bundle.true": "Yes",
+  "search.filters.has_content_in_original_bundle.true": "Sim",
   
   // "search.filters.has_content_in_original_bundle.false": "No",
-  // TODO New key - Add a translation
-  "search.filters.has_content_in_original_bundle.false": "No",
+  "search.filters.has_content_in_original_bundle.false": "Não",
   
   // "search.filters.discoverable.true": "No",
-  // TODO New key - Add a translation
-  "search.filters.discoverable.true": "No",
+  "search.filters.discoverable.true": "Não",
   
   // "search.filters.discoverable.false": "Yes",
-  // TODO New key - Add a translation
-  "search.filters.discoverable.false": "Yes",
+  "search.filters.discoverable.false": "Sim",
   
   // "search.filters.withdrawn.true": "Yes",
-  // TODO New key - Add a translation
-  "search.filters.withdrawn.true": "Yes",
+  "search.filters.withdrawn.true": "Sim",
   
   // "search.filters.withdrawn.false": "No",
-  // TODO New key - Add a translation
-  "search.filters.withdrawn.false": "No",
-  
-  
+  "search.filters.withdrawn.false": "Não",
+ 
   // "search.filters.head": "Filters",
   "search.filters.head": "Filtros",
   
   // "search.filters.reset": "Reset filters",
   "search.filters.reset": "Limpar filtros",
-  
-  
   
   // "search.form.search": "Search",
   "search.form.search": "Buscar",
@@ -3390,8 +3335,7 @@
   "search.results.no-results-link": "envolver entre aspas",
   
   // "search.results.empty": "Your search returned no results.",
-  // TODO New key - Add a translation
-  "search.results.empty": "Your search returned no results.",
+  "search.results.empty": "Sua pesquisa não retornou resultados.",
   
   
   
@@ -3473,8 +3417,7 @@
   
   
   // "submission.sections.describe.relationship-lookup.close": "Close",
-  // TODO New key - Add a translation
-  "submission.sections.describe.relationship-lookup.close": "Close",
+  "submission.sections.describe.relationship-lookup.close": "Fechar",
   
   // "submission.sections.describe.relationship-lookup.external-source.added": "Successfully added local entry to the selection",
   // TODO New key - Add a translation
@@ -3537,12 +3480,10 @@
   "submission.sections.describe.relationship-lookup.external-source.import-modal.head.lcname": "Importing from LC Name",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.head.orcidV2": "Importing from ORCID",
-  // TODO New key - Add a translation
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.orcidV2": "Importing from ORCID",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.orcidV2": "Importando do ORCID",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.head.sherpaJournal": "Importing from Sherpa Journal",
-  // TODO New key - Add a translation
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.sherpaJournal": "Importing from Sherpa Journal",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.sherpaJournal": "Importando do Sherpa Journal",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.head.sherpaPublisher": "Importing from Sherpa Publisher",
   // TODO New key - Add a translation
@@ -3601,8 +3542,7 @@
   "submission.sections.describe.relationship-lookup.search-tab.deselect-page": "Deselect page",
   
   // "submission.sections.describe.relationship-lookup.search-tab.loading": "Loading...",
-  // TODO New key - Add a translation
-  "submission.sections.describe.relationship-lookup.search-tab.loading": "Loading...",
+  "submission.sections.describe.relationship-lookup.search-tab.loading": "Carregando...",
   
   // "submission.sections.describe.relationship-lookup.search-tab.placeholder": "Search query",
   // TODO New key - Add a translation
